@@ -13865,3 +13865,12 @@ Entries:
   id: 1534
   time: '2025-11-09T19:50:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2550
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: >-
+        A new corporate war era shuttle has been added to the Syndicate
+        Shipyard!
+  id: 1535
+  time: '2025-11-09T19:55:52.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2449
