@@ -15056,3 +15056,16 @@ Entries:
   id: 1669
   time: '2025-12-20T17:38:50.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2833
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Sellsword: Received spare Vespera magazines. Atmos and external tiling
+        touched up.
+    - type: Tweak
+      message: >-
+        Takeaway: Received biogenerator and spare biomass. Atmos and external
+        tiling touched up.
+  id: 1670
+  time: '2025-12-20T17:44:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2826
