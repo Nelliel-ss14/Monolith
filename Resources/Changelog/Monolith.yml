@@ -15332,3 +15332,16 @@ Entries:
   id: 1701
   time: '2025-12-30T10:07:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2894
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: >-
+        Colonial Lianson is now Overseer, acting as Head Of Security on Colossus
+        Sector.
+    - type: Tweak
+      message: >-
+        Emergency Responders now actually get firearms and sidearms for their
+        duties
+  id: 1702
+  time: '2025-12-30T11:01:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2897
